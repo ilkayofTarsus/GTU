@@ -1,0 +1,6 @@
+( + 1b1 1b1 )
+( + (+ 1b1 1b1 ) 1b1)
+( + 1b1 (+ 1b1 1b1 ))
+( def ilkay ( + 1b1 1b1 ) )
+( def ilkay a ( + a 1b1 ) )
+( def ilkay a b ( + a b ) )

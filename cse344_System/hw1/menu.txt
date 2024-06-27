@@ -1,0 +1,32 @@
+1 - addStudentGrade -> 
+	input form :  addStudentGrade "name""grade""text.txt"
+	saves students with their grades in text.txt
+	
+2 - searchStudent ->
+	input form : searchStudent"name""text.txt"
+	finds the student from the text.txt file and prints it with the grade
+
+3 - sortAll ->
+	input form: sortAll"text.txt"
+	It offers 4 options and sorts according to these options
+
+4 - showAll ->
+	input form: showAll"text.txt"
+	prints all students on the screen.
+
+5 - listGrades ->
+	input form: listGrades"text.txt"
+	prints the first 5 notes in text.txt
+	 
+6 - listSome ->
+	input form: listSome"index""page""grades.txt
+	from the index in grades.txt to the desired page 
+	prints notes on the screen
+	
+7 - gtuStudentGrades ->
+	input form: gtuStudentGrades
+	input form: gtuStudentGrades "text.txt"
+
+	offers options in the case without parameters
+	creates a file named text.txt in the case with parameter	
+
